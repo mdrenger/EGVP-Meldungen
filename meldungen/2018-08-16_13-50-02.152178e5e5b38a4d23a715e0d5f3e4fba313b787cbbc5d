@@ -1,0 +1,9 @@
+
+Hinweis: alle OSCI Postfächer (EGVP, Communicator, etc.) betrieben im ITDZ Berlin
+Wartungsarbeiten in der Infrastruktur
+Betroffenes Land: Berlin
+Beginn: 31.08.2018 16:00
+Ende: 03.09.2018 06:00
+Status: aktuell
+
+Am genannten Datum (31.08.2018 16:00 Uhr - 03.09.2018 06:00 Uhr) wird es aufgrund von Wartungsarbeiten in der Infrastruktur des Rechenzentrums keine stabile Erreichbarkeit der hier betriebenen OSCI-Postfächer und auch des Verifikationsservers (OCSP/CRL-Relay) gegeben sein. Dies betrifft sowohl externe wie interne Zugriffe auf die URLs; vps.verwalt-berlin.de, egvp.verwalt-berlin.de und vpsclp.verwalt-berlin.de sowie alle zugehörigen Testsysteme.

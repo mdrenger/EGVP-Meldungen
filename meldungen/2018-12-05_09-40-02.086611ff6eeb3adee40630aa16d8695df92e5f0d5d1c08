@@ -1,0 +1,9 @@
+
+Hinweis: Alle, Mecklenburg-Vorpommern
+Information - Zertifikatswechsel des XKMS (OCSP/CRL-Relay) Servers am 05.12.2018 17 Uhr
+Betroffenes Land: Mecklenburg-Vorpommern
+Beginn: 05.12.2018 17:00
+Voraussichtliches Ende: 05.12.2018 17:30
+Status: aktuell
+
+Das betroffene Zertifikat läuft ab und muss ersetzt werden. Die EGVP-Clients (in jeglicher Ausprägung, beBPo, EGVP-Backend, Governikus Communicator Justiz-Edition, EGVP-Classic-Client, etc.) müssen dazu nach 17:30 Uhr einmal neugestartet werden, damit sie durch ein Update automatisch das neue Zertifikat bekommen.

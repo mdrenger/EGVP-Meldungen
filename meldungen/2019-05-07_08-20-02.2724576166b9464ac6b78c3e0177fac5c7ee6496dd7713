@@ -1,0 +1,10 @@
+
+Hinweis: Alle bei IT.NRW gehosteten Postfächer
+*Erledigt*  Austausch der Verifikationsserver bei IT.NRW
+Bundesweit
+Beginn: 07.05.2019 07:00
+Voraussichtliches Ende: 07.05.2019 08:16
+Status: erledigt
+
+Die Server für die Verifikation (OCSP-/CRL-Relays) bei IT.NRW für den elektronischen Rechtsverkehr werden am 07.05.2019 zwischen 7:00 und 9:00 Uhr ausgetauscht. In diesem Zeitfenster kann es zu kurzen Ausfällen bei der Verifikation von Nachrichten/Zertifikaten kommen. Hierdurch bedingt ist auch der vereinzelte Abbruch bei der Nachrichtenübermittlung in der EGVP-Kommunikation möglich.
+Wir sind bemüht, die Ausfälle gering zu halten und informieren nach Abschluß der Arbeiten.

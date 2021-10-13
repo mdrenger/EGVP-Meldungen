@@ -1,0 +1,11 @@
+
+Hinweis: Sender an OSCI-Postfächer im Land Berlin
+Umstellung der OSCI-Manager URL
+Betroffenes Land: Berlin
+Beginn: 01.09.2021 00:00
+Ende: 01.12.2021 00:00
+Status: aktuell
+
+Sehr geehrte Damen und Herren,
+das ITDZ Berlin ändert den Hostnamen für den Zugang zu seiner OSCI-Infrastruktur. Aktuell werden die Berliner OSCI-Postfächer von vpsclp.verwalt-berlin.de (Bestand) umgezogen auf govsc-p.verwalt-berlin.de (neu). Dies geschieht nicht an einem Stichtag, sondern Postfach für Postfach.
+Bitte stellen Sie als Sender von OSCI-Nachrichten sicher, dass Ihre Infrastruktur den neuen Host (govsc-p.verwalt-berlin.de) erreicht und Sie auch weiterhin Berliner OSCI-Postfächer besenden können.

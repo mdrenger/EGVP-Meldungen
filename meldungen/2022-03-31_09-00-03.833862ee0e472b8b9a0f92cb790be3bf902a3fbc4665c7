@@ -1,0 +1,12 @@
+
+Hinweis: Alle bei IT.NRW gehosteten Postfächer
+***Erledigt****Zertifikatsaktualisierung
+Bundesweit
+Beginn: 30.03.2022 17:00
+Voraussichtliches Ende: 30.03.2022 18:00
+Status: erledigt
+
+Am 30.03.2022 wird das Zertifikat auf dem Verifikationsserver (OCSP-/CRL-Relays) erneuert.
+In der Zeit von 17:00 Uhr bis 18:00 Uhr kann es zu kurzen Ausfällen bei der Verifikation von Nachrichten/Zertifikaten kommen. Hierdurch bedingt ist auch der vereinzelte Abbruch bei der Nachrichtenübermittlung in der EGVP-Kommunikation möglich.
+Wir sind bemüht, die Ausfälle gering zu halten und informieren nach Abschluß der Arbeiten.
+

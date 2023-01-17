@@ -1,0 +1,15 @@
+
+Störung: sämtliche Nutzer des VDC in den vier Bundesländern
+Fehlermeldung beim Verzeichnisdienstconnector (VDC) - Aufruf von DE-Mail-Adressen
+Betroffene Länder: Bremen, Hamburg, Sachsen-Anhalt, Schleswig-Holstein
+Beginn: 09.01.2023 10:43
+Voraussichtliches Ende: 17.01.2023 13:26
+Status: erledigt
+
+Derzeit kommt es beim Aufruf des VDC-Adressbuchs zu Fehlermeldungen, z.B. "Microsoft LDAP-Verzeichnis: Unbekannter Fehler", "Das LDAP-Verzeichnis ist belegt", "Prozessfehler".
+
+Mit Bestätigung der Meldung mit "ok" erscheinen dann trotzdem die gewünschten Suchergebnisse im EGVP-Umfeld.
+
+Die Suche nach DE-Mailadressen funktioniert jedoch derzeit nicht.
+
+Wir arbeiten an einer Lösung mit der FP Digital Solutions (ehemals "Mentana").

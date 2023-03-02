@@ -1,0 +1,10 @@
+
+Störung: Alle bei IT.NRW gehosteten Postfächer
+Störung der Zertifikatsprüfung
+Bundesweit
+Beginn: 01.03.2023 16:00
+Status: aktuell
+
+Ausfall der Zertifikatsprüfung über CVS (Prod und Test) bei IT.NRW.
+
+Damit betroffen EGVP-Classic, EGVP-E und alle auf CVS zugreifenden Clients.

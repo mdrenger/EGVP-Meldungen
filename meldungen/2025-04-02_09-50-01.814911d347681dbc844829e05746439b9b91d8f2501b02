@@ -1,0 +1,11 @@
+
+Störung: Alle Behörden der Trägerländer
+Ausfall produktive Datenbankserver der Governikus-Suite, Dataport
+Betroffene Länder: Bremen, Hamburg, Sachsen-Anhalt, Schleswig-Holstein
+Beginn: 01.04.2025 17:10
+Voraussichtliches Ende: 02.04.2025 03:40
+Status: erledigt
+
+In der Zeit von etwa 17:10 Uhr des 01.04 bis etwa 03:40 Uhr des 02.04 gab es einen produktiven Stillstand der Datenbankserver der Governikus-Suite.
+
+Der asynchrone Sendetest verlief nicht erfolgreich. Das Problem wurde in der Nacht gelöst und die Produktivumgebung funktioniert wieder.
